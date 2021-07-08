@@ -1,0 +1,23 @@
+.btn__toggle {
+   padding: 10px 15px;
+   background-color: rgb(38, 38, 63);
+   color: #ffff;
+   border: none;
+   border-radius: 5px;
+   margin-bottom: 30px;
+}
+
+.btn__toggle:hover {
+   background-color: rgb(75, 75, 83);
+}
+
+.btn__toggle:focus {
+   outline: none;
+}
+
+.app {
+   background: blue url('got.jpeg') center center no-repeat;
+   background-size: cover;
+   height: 1000px;	
+}  
+
